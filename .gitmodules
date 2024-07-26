@@ -1,3 +1,6 @@
 [submodule "Build your own basic NFT Contract on Ethereum/NFT-Tutorial/foundary-app/lib/forge-std"]
 	path = Build your own basic NFT Contract on Ethereum/NFT-Tutorial/foundary-app/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Build your own basic NFT Contract on Ethereum/NFT-Tutorial/foundary-app/lib/openzeppelin-contracts"]
+	path = Build your own basic NFT Contract on Ethereum/NFT-Tutorial/foundary-app/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
