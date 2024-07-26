@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > Completed Tutorials from Learn Web 3
 - ### Build your own token using ERC-20 tokens
-https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-own-cryptocurrency-on-ethereum/ 
+    - https://learnweb3.io/degrees/ethereum-developer-degree/freshman/build-your-own-cryptocurrency-on-ethereum/ 
 
 
 
